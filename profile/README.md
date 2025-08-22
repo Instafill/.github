@@ -109,6 +109,7 @@ Instafill.ai is trusted by teams across industries:
 - [Legal AI Form Filler](https://instafill.ai/legal)  
 - [Construction AI Form Filler](https://instafill.ai/construction-contractors)  
 - [Mortgage AI Form Filler](https://instafill.ai/mortgage-lenders)
+- [Instafill.ai capabilities, security and privacy deck](https://www.slideshare.net/slideshow/instafill-ai-capabilities-security-and-privacy/282613537)
 
 ---
 
